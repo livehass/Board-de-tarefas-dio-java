@@ -2,6 +2,11 @@
 
 ## Estrutura das Classes
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/edb0650a-7436-485e-bace-f3bad84fc1f5" alt="image">
+</p>
+
+
 ```java
 
 import java.util.List;
